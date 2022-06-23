@@ -1,3 +1,25 @@
+##Home Page
+![image](https://user-images.githubusercontent.com/69236171/175213154-f365f9a0-6c90-4228-9a45-e0b9b78698e4.png)
+
+##Book Details
+![image](https://user-images.githubusercontent.com/69236171/175213746-ea631652-e576-43d6-98ac-75bfd9adc487.png)
+
+##Update Profile
+![image](https://user-images.githubusercontent.com/69236171/175215315-394e3085-38e5-49e1-9482-0e10b4efbf81.png)
+
+##Add Book
+![image](https://user-images.githubusercontent.com/69236171/175216038-b810efa4-c185-4c41-8fe0-6d06238c5e48.png)
+
+##Update Book
+![image](https://user-images.githubusercontent.com/69236171/175216275-de835d10-dc42-4d27-acc8-ae09d40b9e36.png)
+
+##Cart Page
+![image](https://user-images.githubusercontent.com/69236171/175216524-a55a4aca-c71f-4228-8d23-fe8bafc436cd.png)
+
+##Login and Ragisteration Page
+![image](https://user-images.githubusercontent.com/69236171/175216906-cb19087e-2153-467d-9d24-61967c35bbbe.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
